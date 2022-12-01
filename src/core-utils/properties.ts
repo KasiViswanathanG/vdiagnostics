@@ -2,13 +2,13 @@ const prod = process.env.NODE_ENV === "production";
 
 const getBaseUrl = () => {
   return prod
-    ? "https://vdiagnostics.herokuapp.com/"
+    ? "https://vdiagnostics.up.railway.app/"
     : "http://localhost:3001/";
 };
 
 const getRedirectUrl = () => {
   return prod
-    ? "https://vdiagnostics.herokuapp.com/"
+    ? "https://vdiagnostics.up.railway.app/"
     : "http://localhost:3000/";
 };
 
