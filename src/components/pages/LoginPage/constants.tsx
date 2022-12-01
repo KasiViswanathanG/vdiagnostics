@@ -1,0 +1,13 @@
+export const Continue = "Continue";
+export const Account = "Already have an account?";
+export const LoginConst = "Login";
+export const FirstName = "First Name";
+export const LastName = "Last Name";
+export const EmailIdText = "Email Id";
+export const SignUpWith = "or sign up with";
+export const Hey = "Hey";
+export const MobileNumberQuestion = "Enter your Mobile number";
+export const MobNumber = "Mobile Number";
+export const GetOTP = "Get OTP";
+export const EnterOTPRequest = "Enter the OTP to verify your details";
+export const Verify = "Verify";

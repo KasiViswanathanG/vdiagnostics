@@ -1,0 +1,144 @@
+{
+  "tests": [
+    {
+      "name": "Full body Check",
+      "price": 1000,
+      "id": 1
+    },
+    {
+      "name": "Covid RTPCR",
+      "price": 1200,
+      "id": 2
+    },
+    {
+      "name": "Liver Function Test",
+      "price": 1000,
+      "id": 3
+    },
+    {
+      "name": "Complete Blood Count",
+      "price": 1000,
+      "id": 4
+    },
+    {
+      "name": "Diabetes Test",
+      "price": 1000,
+      "id": 5
+    },
+    {
+      "name": "Kidney Function Test",
+      "price": 1000,
+      "id": 6
+    },
+    {
+      "name": "Thyroid Test",
+      "price": 1000,
+      "id": 7
+    },
+    {
+      "name": "Lipid Profile",
+      "price": 1000,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "kasiviswanathan10898@gmail.com",
+      "name": "Sanji Vinsmoke",
+      "id": 1
+    }
+  ],
+  "patients": [
+    {
+      "relation": "others",
+      "name": "Len",
+      "dob": "2007-09-09",
+      "gender": "female",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "relation": "others",
+      "name": "Sely",
+      "dob": "2007-08-10",
+      "gender": "male",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "relation": "mother",
+      "name": "he",
+      "dob": "2014-06-17",
+      "gender": "male",
+      "userId": 1,
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "month": "August",
+      "date": 10,
+      "day": "Friday",
+      "time": "09.00am - 10.00am",
+      "patients": [
+        1
+      ],
+      "testId": 4,
+      "labId": 1,
+      "addressId": 1,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "month": "December",
+      "date": 10,
+      "day": "Monday",
+      "time": "10.00am - 11.00am",
+      "patients": [
+        1,
+        2
+      ],
+      "testId": 2,
+      "labId": 1,
+      "addressId": 2,
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "address": [
+    {
+      "houseNum": "1",
+      "area": "Vat",
+      "zipcode": "624",
+      "cityState": "di, tam",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "houseNum": "9",
+      "area": "ni",
+      "zipcode": "007",
+      "cityState": "mu, mah",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "cardNumber": "1234 1234 1234 1234",
+      "expiryDate": "2024-09-09",
+      "cvv": "123",
+      "cardHolder": "Len",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "cardNumber": "1234 1234 1234 1234",
+      "expiryDate": "2024-07-10",
+      "cvv": "123",
+      "cardHolder": "Len",
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill="none" d="M7.81836 7.74966C8.18244 6.71469 9.2399 6.09321 10.3212 6.27869C11.4026 6.46417 12.1925 7.40252 12.1909 8.49966C12.1909 9.99966 9.94086 10.7497 9.94086 10.7497" stroke="url(#paint0_linear_126_16169)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill="none" fill-rule="evenodd" clip-rule="evenodd" d="M10 17.5C14.1421 17.5 17.5 14.1421 17.5 10C17.5 5.85786 14.1421 2.5 10 2.5C5.85786 2.5 2.5 5.85786 2.5 10C2.5 14.1421 5.85786 17.5 10 17.5Z" stroke="url(#paint1_linear_126_16169)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="10" cy="13.75" rx="0.75" ry="0.749999" fill="url(#paint2_linear_126_16169)"/>
+<defs>
+<linearGradient fill="none" id="paint0_linear_126_16169" x1="7.34357" y1="10.7497" x2="12.7702" y2="10.3647" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6B4DE0"/>
+<stop offset="0.544792" stop-color="#9C42E3"/>
+<stop offset="1" stop-color="#C339E5"/>
+</linearGradient>
+<linearGradient fill="none" id="paint1_linear_126_16169" x1="0.871213" y1="17.5" x2="19.4816" y2="16.1401" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6B4DE0"/>
+<stop offset="0.544792" stop-color="#9C42E3"/>
+<stop offset="1" stop-color="#C339E5"/>
+</linearGradient>
+<linearGradient fill="none" id="paint2_linear_126_16169" x1="9.08712" y1="14.5" x2="10.9482" y2="14.364" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6B4DE0"/>
+<stop offset="0.544792" stop-color="#9C42E3"/>
+<stop offset="1" stop-color="#C339E5"/>
+</linearGradient>
+</defs>
+</svg>
